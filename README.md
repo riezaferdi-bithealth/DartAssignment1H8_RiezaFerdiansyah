@@ -1,7 +1,7 @@
 # DartAssignment1H8_RiezaFerdiansyah
 ## Output dari Soal 3-10
 
-C:\....\Assignments\Flutter\FlutterAssignment1H8_RiezaFerdiansyah>dart latihan.dart
+C:\....\Assignments\Flutter\FlutterAssignment1H8_RiezaFerdiansyah>dart latihan.dart\
 ---------latihan 3---------\
 [3, 5, 11, 17, 61]\
 ---------latihan 4---------\
